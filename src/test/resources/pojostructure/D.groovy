@@ -1,4 +1,4 @@
-package resources
+package pojostructure
 
 class D {
     String sd

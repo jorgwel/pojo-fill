@@ -1,4 +1,4 @@
-package resources
+package pojostructure
 
 class H {
     String sh

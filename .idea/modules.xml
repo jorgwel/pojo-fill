@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pojo-fill.iml" filepath="$PROJECT_DIR$/.idea/modules/pojo-fill.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pojo-fill_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pojo-fill_main.iml" group="pojo-fill" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pojo-fill_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pojo-fill_test.iml" group="pojo-fill" />
     </modules>
   </component>
 </project>
