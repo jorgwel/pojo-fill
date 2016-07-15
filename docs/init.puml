@@ -9,6 +9,7 @@
 	state F
 	state G
 	state H
+	state L
 
 	A -right-> B
 	A -down-> G
@@ -34,7 +35,9 @@
 	G -left-> H
 
 	H --> G
+	H -up-> H
 
+	H -left-> L : 1 .. *
 
  legend
  |Relationships |
