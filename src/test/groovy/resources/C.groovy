@@ -1,4 +1,4 @@
-package testdomainsone
+package resources
 
 class C {
 
