@@ -1,4 +1,6 @@
-package pojostructure
+package classes.consonants
+
+import classes.vowels.A
 
 class G {
     String sg

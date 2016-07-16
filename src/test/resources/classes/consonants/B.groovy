@@ -1,4 +1,4 @@
-package pojostructure
+package classes.consonants
 
 class B {
     String sb
