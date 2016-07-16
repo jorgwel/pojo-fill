@@ -1,0 +1,24 @@
+@startuml
+	
+	class ClassFinder{
+	}	
+
+	class FillableClass{
+	}	
+
+	class FieldsContentProcessor{
+	}	
+
+	class FieldsContentProcessor{
+	}	
+
+	class RelationshipsStack{
+	}	
+
+	class RelationShip{
+	}	
+
+
+	
+
+@enduml

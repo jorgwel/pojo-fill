@@ -1,5 +1,6 @@
 @startuml
 
+	title Initial relationships
 
 	state A
 	state B

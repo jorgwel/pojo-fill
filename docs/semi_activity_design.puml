@@ -1,0 +1,12 @@
+@startuml
+
+	group User looks to create complete structure of pojo creation for <b>clazz: Class</b> 
+	      Controller -> ClassFinder : FillableClass foundClass = find(clazz)
+	      Controller -> FieldsClassifier : foundClass.attributes = find(clazz)
+	      FieldsClassifier --> ValueAssigner :  fillPrimitiveFields(foundclass.attributes)
+	      FieldsClassifier --> Controller
+	      Controller -> RelationshipsStack : addRelationShips(foundClass, rels)
+	end
+
+
+@enduml
